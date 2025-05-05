@@ -14,10 +14,10 @@ Estos son los pasos seguidos para extrarer los productos:
     - Si no habian recuperar los productos de la url de la categoria
 
 ### Gerarquia de los productos
--- seccion
--- familia
--- categoria
--- sub categoria 
+- seccion
+- familia
+- categoria
+- sub categoria 
 
 Este webscraping comprende contenido estatico y dinamico por lo cual se hace uso de las librerias ** sellenium ** para el contenido dinamico presente en los primeros pasos
 y ** beautifulSoup ** para el contenido estatico presente en las paginas que contiene los productos.
@@ -51,6 +51,8 @@ En este punto los datos cargados en una base de datos sqlite se presentan en una
 - familys
 - categories
 - sub_categories
+
+- 
   ![image](https://github.com/user-attachments/assets/9d847555-8302-4979-a7e1-e0e7944f93f5)
 
 
