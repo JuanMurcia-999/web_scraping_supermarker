@@ -1,0 +1,842 @@
+
+{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "name": "Selladores - Homecenter",
+    "url": "https://www.homecenter.com.co/homecenter-co/category/cat5590030/selladores/",
+    "mainEntity": {
+      "@type": "WebPageElement",
+      "offers": {
+        "@type": "Offer",
+        "itemOffered": [
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"1",
+        "reviewCount":"1",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Topex"
+      },
+      "sku": "289376",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/289376/public",
+      "name":"Cinta Impermeabilizante 1.5mm 15cm X 10mts Sin Foil",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"99900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/289376/cinta-impermeabilizante-15mm-15cm-x-10mts-sin-foil/289376/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"5",
+        "reviewCount":"1",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Topex"
+      },
+      "sku": "550093",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/550093/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Topex 20cm X 10m",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"91900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/550093/cinta-asfaltica-impermeabilizante-tapa-goteras-topex-20cm-x-10m/550093/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Seal Line"
+      },
+      "sku": "707963",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/707963/public",
+      "name":"Sellante Protector Exteriores 0.25 Galón Seal Line",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"39900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/707963/sellante-protector-exteriores-025-galon-seal-line/707963/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Corona"
+      },
+      "sku": "188176",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/188176/public",
+      "name":"Sismoflex Cuñete 30 kg Corona",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"247900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/188176/sismoflex-cunete-30-kg-corona/188176/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"5",
+        "reviewCount":"2",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Topex"
+      },
+      "sku": "283915",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/283915/public",
+      "name":"Cinta Impermeable 1.5mm 15cmx10mts Foil Liso",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"109900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/283915/cinta-impermeable-15mm-15cmx10mts-foil-liso/283915/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Promatel"
+      },
+      "sku": "464350",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/464350/public",
+      "name":"Sp Cinta Imperm Topex 1.5mm 15cmx5mts Sin Foil Liso",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"59900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/464350/sp-cinta-imperm-topex-15mm-15cmx5mts-sin-foil-liso/464350/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "626521",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/626521/public",
+      "name":"Sika Waterbar®- Eco- O 20 Rollo de 20 m Cinta PVC para Sello de Juntas",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"1216900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/626521/sika-waterbar-eco-o-20-rollo-de-20-m-cinta-pvc-para-sello-de-juntas/626521/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Bronco"
+      },
+      "sku": "292091",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/292091/public",
+      "name":"Bronco Sismo Resistente 30 kg Bronco",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"211900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/292091/bronco-sismo-resistente-30-kg-bronco/292091/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"3.6",
+        "reviewCount":"5",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Topex"
+      },
+      "sku": "283914",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/283914/public",
+      "name":"Cinta Impermeable 1.5mm 10cmx10mts Foil Liso",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"79900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/283914/cinta-impermeable-15mm-10cmx10mts-foil-liso/283914/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Topex"
+      },
+      "sku": "550094",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/550094/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Topex 33cm X 10m",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"151900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/550094/cinta-asfaltica-impermeabilizante-tapa-goteras-topex-33cm-x-10m/550094/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647689",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647689/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 33cm X 10m Set X2 Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"304900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647689/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-33cm-x-10m-set-x2-uds-texsa/647689/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647693",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647693/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 15cm X 5m Set X 3Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"125900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647693/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-15cm-x-5m-set-x-3uds-texsa/647693/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647694",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647694/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 20cm X 5m Set X 3Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"240900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647694/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-20cm-x-5m-set-x-3uds-texsa/647694/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647691",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647691/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 20cm X 10m Set X 2Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"184900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647691/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-20cm-x-10m-set-x-2uds-texsa/647691/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Truper"
+      },
+      "sku": "709204",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709204/public",
+      "name":"Cinta Antideslizante Fluorescente 5 m x 50 Mm Con Adhesivo Truper x 3 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"191900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709204/cinta-antideslizante-fluorescente-5-m-x-50-mm-con-adhesivo-truper-x-3-unidades/709204/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647690",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647690/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 50cm X 5m Set X 3 Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"393900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647690/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-50cm-x-5m-set-x-3-uds-texsa/647690/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647692",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647692/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 25cm X 5m Set X 3Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"222900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647692/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-25cm-x-5m-set-x-3uds-texsa/647692/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Wolfox"
+      },
+      "sku": "709197",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709197/public",
+      "name":"Cinta para Ducto 45 m x 48 Mm Wolfox Gris Hot Melt x 12 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"186900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709197/cinta-para-ducto-45-m-x-48-mm-wolfox-gris-hot-melt-x-12-unidades/709197/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Wolfox"
+      },
+      "sku": "709196",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709196/public",
+      "name":"Cinta para Ducto 9 m x 48 Mm Wolfox Gris Hot Melt x 24 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"109900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709196/cinta-para-ducto-9-m-x-48-mm-wolfox-gris-hot-melt-x-24-unidades/709196/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647687",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647687/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 10cm x 10m Set X 2Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"112900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647687/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-10cm-x-10m-set-x-2uds-texsa/647687/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "647686",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/647686/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Tape 10cm x 5m Set X 3Uds Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"96900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/647686/cinta-asfaltica-impermeabilizante-tapa-goteras-tape-10cm-x-5m-set-x-3uds-texsa/647686/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Truper"
+      },
+      "sku": "709205",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709205/public",
+      "name":"Cinta Antideslizante Bicolor de 18 m x 50 Mm Con Adhesivo Truper x 2 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"205900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709205/cinta-antideslizante-bicolor-de-18-m-x-50-mm-con-adhesivo-truper-x-2-unidades/709205/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Truper"
+      },
+      "sku": "709208",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709208/public",
+      "name":"Cinta Antideslizante Negra de 18 m x 25 Mm Con Adhesivo Truper x 2 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"87900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709208/cinta-antideslizante-negra-de-18-m-x-25-mm-con-adhesivo-truper-x-2-unidades/709208/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Truper"
+      },
+      "sku": "709206",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709206/public",
+      "name":"Cinta Antideslizante Bicolor de 5 m x 50 Mm Con Adhesivo Truper x 3 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"101900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709206/cinta-antideslizante-bicolor-de-5-m-x-50-mm-con-adhesivo-truper-x-3-unidades/709206/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Truper"
+      },
+      "sku": "709207",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709207/public",
+      "name":"Cinta Antideslizante Negra de 18 m x 50 Mm Con Adhesivo Truper x 2 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"155900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709207/cinta-antideslizante-negra-de-18-m-x-50-mm-con-adhesivo-truper-x-2-unidades/709207/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Truper"
+      },
+      "sku": "709203",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/709203/public",
+      "name":"Cinta Antideslizante Fluorescente 18 m x 50 Mm Con Adhesivo Truper x 2 Unidades",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"421900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/709203/cinta-antideslizante-fluorescente-18-m-x-50-mm-con-adhesivo-truper-x-2-unidades/709203/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "626524",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/626524/public",
+      "name":"Sika Waterbar®- Eco- O 15 Rollo de 20 m Cinta PVC para Sello de Juntas",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"981900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/626524/sika-waterbar-eco-o-15-rollo-de-20-m-cinta-pvc-para-sello-de-juntas/626524/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "626522",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/626522/public",
+      "name":"Sika Waterbar®- Eco- O 22 Rollo de 15 m Cinta PVC para Sello de Juntas",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"1041900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/626522/sika-waterbar-eco-o-22-rollo-de-15-m-cinta-pvc-para-sello-de-juntas/626522/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Seal Line"
+      },
+      "sku": "707958",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/707958/public",
+      "name":"Sellante Hidrófugo Garrafa 5 Galones Seal Line",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"449900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/707958/sellante-hidrofugo-garrafa-5-galones-seal-line/707958/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"Paternit"
+      },
+      "sku": "97673",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/97673/public",
+      "name":"Sella zinc 1/16 galón, Paternit",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"32900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/97673/sella-zinc-1-16-galon-paternit/97673/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "66881",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/66881/public",
+      "name":"Sika Waterbar/Cinta PVC V-10 Sellar E Impermeabilizar Juntas En Tanques 30m",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"922900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/66881/sika-waterbar-cinta-pvc-v-10-sellar-e-impermeabilizar-juntas-en-tanques-30m/66881/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "11062",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/11062/public",
+      "name":"Cinta Multiseal Bituminosa Autoadhesiva Impermeabilizante 15 1.2mm 15cmx10m Sin Foil Sika",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"131900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/11062/cinta-multiseal-bituminosa-autoadhesiva-impermeabilizante-15-12mm-15cmx10m-sin-foil-sika/11062/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"5",
+        "reviewCount":"3",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "35566",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/35566/public",
+      "name":"Cinta Multiseal Bituminosa Autoadhesiva Impermeabilizante 10 1.2mm 10cmx10m Sika",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"87500",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/35566/cinta-multiseal-bituminosa-autoadhesiva-impermeabilizante-10-12mm-10cmx10m-sika/35566/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"4.3333",
+        "reviewCount":"9",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Texsa"
+      },
+      "sku": "287576",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/287576/public",
+      "name":"Cinta Asfáltica Impermeabilizante Tapa Goteras Texsatape 1.0mm 25cm X 10m Texsa",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"112900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/287576/cinta-asfaltica-impermeabilizante-tapa-goteras-texsatape-10mm-25cm-x-10m-texsa/287576/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"3",
+        "reviewCount":"1",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Paternit"
+      },
+      "sku": "97670",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/97670/public",
+      "name":"Soldadura 1/4 galón, Paternit",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"143900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/97670/soldadura-1-4-galon-paternit/97670/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"5",
+        "reviewCount":"1",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "295422",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/295422/public",
+      "name":"Sika Waterbar/Cinta PVC O-22 Sellar E Impermeabilizar Juntas En Tanques 15m",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"1358900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/295422/sika-waterbar-cinta-pvc-o-22-sellar-e-impermeabilizar-juntas-en-tanques-15m/295422/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"5",
+        "reviewCount":"1",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Paternit"
+      },
+      "sku": "97675",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/97675/public",
+      "name":"Sella zinc 1/4 galón, Paternit",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"90900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/97675/sella-zinc-1-4-galon-paternit/97675/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"4.5",
+        "reviewCount":"2",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Paternit"
+      },
+      "sku": "97668",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/97668/public",
+      "name":"Soldadura 1/16 galón. Paternit",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"46900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/97668/soldadura-1-16-galon-paternit/97668/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "507954",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/507954/public",
+      "name":"Sikalastic-707 Transparente Membrana Liquida Impermeable 4kg",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"1077900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/507954/sikalastic-707-transparente-membrana-liquida-impermeable-4kg/507954/"
+      }
+  },
+    {
+      "@type":"Product",
+      
+      "brand": {
+          "@type":"brand",
+          "name":"SIKA"
+      },
+      "sku": "289823",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/289823/public",
+      "name":"Sika Waterbar/Cinta PVC V-15 sellar e impermeabilizar juntas en tanques 30m",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"1508900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/289823/sika-waterbar-cinta-pvc-v-15-sellar-e-impermeabilizar-juntas-en-tanques-30m/289823/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"3",
+        "reviewCount":"2",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Loctite"
+      },
+      "sku": "409154",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/409154/public",
+      "name":"Loctite Super Flex Roja 50ml",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"16900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/409154/loctite-super-flex-roja-50ml/409154/"
+      }
+  },
+    {
+      "@type":"Product",
+      "aggregateRating": {
+        "@type":"AggregateRating",
+        "ratingValue":"5",
+        "reviewCount":"3",
+        "bestRating":"5",
+        "worstRating":"1"
+      },
+      "brand": {
+          "@type":"brand",
+          "name":"Loctite"
+      },
+      "sku": "409155",
+      "image":"https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/409155/public",
+      "name":"Loctite Super Flex Negra 50ml",
+      "offers": {
+          "@type":"Offer",
+          "availability":"http://schema.org/InStock",
+          "price":"16900",
+          "priceCurrency":"COP",
+          "url":"/homecenter-co/product/409155/loctite-super-flex-negra-50ml/409155/"
+      }
+  }]
+      }
+    }
+  }

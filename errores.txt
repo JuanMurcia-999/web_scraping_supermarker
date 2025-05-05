@@ -1,0 +1,18 @@
+se salto articulos de Aseo y contenedores de basura en baño cocina y aseo
+
+
+
+
+🔴 error de extraccion de un popup <undetected_chromedriver.webelement.WebElement (session="37ec3cffb357aee0c7c09f2a79956fa0", element="f.013CF9CEE2D9C81FF2CD16B9CEF15C36.d.F5A653CD0E7E8DE2531545446B05081B.e.107")>
+Tiempo de ejecución de di_get_popups_home: 9165.3437 segundos
+🔴 fail_get_categories []
+🔴 fail_get_sub_categories []
+🔴 fail_get_num_pages_for_category []
+🔴 fail_get_products_for_page ['https://www.homecenter.com.co/homecenter-co/category/cat5650003/taladro-de-arbol/', 
+'https://www.homecenter.com.co/homecenter-co/category/cat10336/mesas-de-centro-y-auxiliares/?currentpage=9', 
+'https://www.homecenter.com.co/homecenter-co/category/cat1680246/set-de-banos/?currentpage=2',
+ 'https://www.homecenter.com.co/homecenter-co/category/cat1680246/set-de-banos/?currentpage=4']
+
+
+
+ 
