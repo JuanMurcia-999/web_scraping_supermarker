@@ -1,61 +1,57 @@
-# webscraping productos de tienda web reconocida
+# Web scraping de productos de tienda web reconocida
 
+Este proyecto de web scraping tiene como objetivo la extracción de todos los productos ofrecidos por una empresa reconocida, relacionada con la construcción, el hogar, autopartes, elementos ferreteros, entre otros.
 
-Este web scraping tiene como obgetivo la extraccion de todos los productos ofrecios por una empresa reconocida relacionada con la construccion, hogar, auto partes, elementos ferreteros entre otras.
+## Pasos seguidos para extraer los productos
 
-Estos son los pasos seguidos para extrarer los productos:
+0. Configurar la cookie que elimina la solicitud de ubicacion de la pagina
+1. Hacer *hover* sobre los elementos de la barra de navegación, denominados **secciones**.
+2. En cada *hover*, recuperar la URL de los elementos resaltados en azul, que corresponden a las **familias**.
+3. Reemplazar la palabra `'landing'` por `'category'` en cada una de las URLs recuperadas, para acceder al catálogo completo de esa familia.
+4. Recuperar la URL de cada **categoría** presente por familia en la barra lateral izquierda de la página.
+5. Verificar si cada página de categoría tiene **subcategorías**:
+   - Si hay subcategorías, recorrer cada una y extraer los productos.
+   - Si no hay subcategorías, extraer los productos directamente desde la URL de la categoría.
 
-1. Hacer hover sobre los elementos de la barra de navegacion, denomidados secciones
-2. En cada hover recuperar la url de los elementos resaltados en azul, que son las familias
-3. Remplazar la plabra 'landing' por 'category' de cada una de las urls recuperadas para acceder al catalogo completo de esa familia
-4. Recuperar la url de cada categoria presnete por familia en la barra lateral del izquierda de la pagina
-5. Verificar si cada pagina de catgeoria tiene subcategorias
-    - Si habian sub_categorias recorrer cada una y extraer los productos
-    - Si no habian recuperar los productos de la url de la categoria
+## Jerarquía de los productos
 
-### Gerarquia de los productos
-- seccion
-- familia
-- categoria
-- sub categoria 
+- Sección
+- Familia
+- Categoría
+- Subcategoría (si existe)
 
-Este webscraping comprende contenido estatico y dinamico por lo cual se hace uso de las librerias ** sellenium ** para el contenido dinamico presente en los primeros pasos
-y ** beautifulSoup ** para el contenido estatico presente en las paginas que contiene los productos.
+Este scraping comprende contenido estático y dinámico, por lo cual se hace uso de las siguientes librerías:
 
-### Datos extraidos
+- **Selenium**: para el contenido dinámico presente en los primeros pasos.
+- **BeautifulSoup**: para el contenido estático presente en las páginas que contienen los productos.
 
-- score: Puntuacion de 1 a 5 estrellas 
-- brand: Marca del fabricante del produco
-- sku: Codigo unico por producto
-- price: precio en pesos colombianos
-- url: url del producto en la tienda real
-- image: url de la imagen de presentacion del producto
-- name: Nombre del producto
-- section: agrupacion global
-- family: Grupo en la seccion al que pertenece
-- category: grupo en la familia a la que pertenece
-- sub_category: grupo (si existe) al que pertenece
+## Datos extraídos
 
-El tiempo total de extraccion fue de 2 horas recuperando cerca de 200k productos
+- `score`: Puntuación de 1 a 5 estrellas.
+- `brand`: Marca del fabricante del producto.
+- `sku`: Código único por producto.
+- `price`: Precio en pesos colombianos.
+- `url`: URL del producto en la tienda real.
+- `image`: URL de la imagen de presentación del producto.
+- `name`: Nombre del producto.
+- `section`: Agrupación global.
+- `family`: Grupo en la sección al que pertenece.
+- `category`: Grupo en la familia al que pertenece.
+- `sub_category`: Grupo (si existe) al que pertenece.
 
+El tiempo total de extracción fue de aproximadamente **2 horas**, recuperando cerca de **200,000 productos**.
 
-### Modelado y tranformacion de los datos
+## Modelado y transformación de los datos
 
+En este punto, los datos cargados en una base de datos SQLite se presentan en una única tabla con todos los productos, y deben ser remodelados para obtener tablas separadas de:
 
-En este punto los datos cargados en una base de datos sqlite se presentan en una unica tabla con todos los productos y se debe remodelar para obtener tablas de:
+- `products`
+- `categories`
+- `brands`
+- `sections`
+- `families`
+- `sub_categories`
 
-- products
-- categories
-- brands
-- sections
-- familys
-- categories
-- sub_categories
+Con sus respectivas relaciones.
 
-- 
-  ![image](https://github.com/user-attachments/assets/9d847555-8302-4979-a7e1-e0e7944f93f5)
-
-
-y sus respectivas relaciones
-
-
+![image](https://github.com/user-attachments/assets/9d847555-8302-4979-a7e1-e0e7944f93f5)
